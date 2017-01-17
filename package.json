@@ -1,0 +1,19 @@
+{
+  "name": "picasso",
+  "version": "0.0.1",
+  "description": "Smart digital photo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Winnovators/PiCasso.git"
+  },
+  "author": "Alex Balogh, Collin Duncan, Anderson Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Winnovators/PiCasso/issues"
+  },
+  "homepage": "https://github.com/Winnovators/PiCasso#readme"
+}
